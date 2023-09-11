@@ -2,6 +2,11 @@
   width: 800px;
   box-sizing: border-box;
 }
+@media media-screen and (max-width:800px;) {
+  body {
+    background: greenyellow;
+  }
+}
 body {
   margin: 0 auto;
   width: 50%;
